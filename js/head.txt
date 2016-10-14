@@ -1,0 +1,5 @@
+var Server = IgeClass.extend({
+	classId: 'Server',
+	Server: true,
+    
+	init: function (options) {
